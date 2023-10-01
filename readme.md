@@ -1,1 +1,3 @@
-![Alt text](<Screenshot (1177).png>) ![Alt text](<Screenshot (1165).png>) ![Alt text](<Screenshot (1166).png>) ![Alt text](<Screenshot (1167).png>) ![Alt text](<Screenshot (1168).png>) ![Alt text](<Screenshot (1169).png>) ![Alt text](<Screenshot (1170).png>) ![Alt text](<Screenshot (1171).png>) ![Alt text](<Screenshot (1172).png>) ![Alt text](<Screenshot (1173).png>) ![Alt text](<Screenshot (1174).png>) ![Alt text](<Screenshot (1175).png>) ![Alt text](<Screenshot (1176).png>)
+#  HungryPulse
+
+HungryPulse is a web application built using HTML, CSS, and JavaScript. It serves as a clone of Zomato, allowing users to search for restaurants, view their menus, and place orders for food delivery.
